@@ -7,7 +7,6 @@ Ignacio Arroyo
 
 import gensim
 import logging
-from w2v import clean_Ustring_fromU as cl
 from six import iteritems
 from gensim import corpora
 from gensim.utils import tokenize
